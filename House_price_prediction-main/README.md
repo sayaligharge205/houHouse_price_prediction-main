@@ -41,3 +41,13 @@ This project uses data science and machine learning techniques to estimate the p
    ```bash
    git clone https://github.com/sayaligharge205/House_price_prediction-main.git
    cd House_price_prediction-main
+
+
+
+   ## 👩‍💻 Author
+
+**Sayali Dhanaji Gharge**
+
+- 📧 [gharges825@gmail.com](mailto:gharges825@gmail.com)  
+- 🐙 [GitHub: @sayaligharge205](https://github.com/sayaligharge205)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sayali-gharge-09a29a2a0/)
